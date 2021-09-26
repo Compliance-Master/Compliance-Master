@@ -1,0 +1,24 @@
+.hero {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  align-content: center;
+  width: 90%;
+  justify-content: center;
+}
+.App-logo {
+  pointer-events: none;
+  width: 100%;
+}
+.back {
+  background-image: url(../background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+#waves {
+  bottom: -1px;
+  width: 100%;
+  position: absolute;
+}

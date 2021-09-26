@@ -1,0 +1,11 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background: #ffffff; /*back*/
+}
+.ra-mb {
+  margin-bottom: 20px;
+}

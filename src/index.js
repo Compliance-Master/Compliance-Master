@@ -17,7 +17,7 @@ import Refund from './components/Refund';
 import Privacy from './components/Privacy';
 import Disclaimer from './components/Disclaimer';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
@@ -27,7 +27,7 @@ ReactDOM.render(
 
       <Router>
         <Switch>
-          <Route exact path="/Compliance-Master/">
+          <Route exact path="/">
             <Hero />
             <TypeOfCompany />
             <Process />
@@ -39,17 +39,17 @@ ReactDOM.render(
             <Footer />
           </Route>
           {/* toc */}
-          <Route path="/Compliance-Master/Sole-Proprietor"><IndividualCompany name="Sole-Proprietor" /></Route>
-          <Route path="/Compliance-Master/Partnership-Firm"><IndividualCompany name="Partnership-Firm" /></Route>
-          <Route path="/Compliance-Master/Limited-Liability-Partnership"><IndividualCompany name="Limited-Liability-Partnership" /></Route>
-          <Route path="/Compliance-Master/One-Person-Company"><IndividualCompany name="One-Person-Company" /></Route>
-          <Route path="/Compliance-Master/Private-Limited-Company"><IndividualCompany name="Private-Limited-Company" /></Route>
-          <Route path="/Compliance-Master/Public-Limited-Company"><IndividualCompany name="Public-Limited-Company" /></Route>
+          <Route path="/Sole-Proprietor"><IndividualCompany name="Sole-Proprietor" /></Route>
+          <Route path="/Partnership-Firm"><IndividualCompany name="Partnership-Firm" /></Route>
+          <Route path="/Limited-Liability-Partnership"><IndividualCompany name="Limited-Liability-Partnership" /></Route>
+          <Route path="/One-Person-Company"><IndividualCompany name="One-Person-Company" /></Route>
+          <Route path="/Private-Limited-Company"><IndividualCompany name="Private-Limited-Company" /></Route>
+          <Route path="/Public-Limited-Company"><IndividualCompany name="Public-Limited-Company" /></Route>
           {/* term */}
-          <Route path="/Compliance-Master/Term-and-Conditions" component={Term} />
-          <Route path="/Compliance-Master/Privacy-Policy" component={Privacy} />
-          <Route path="/Compliance-Master/Refund-Policy" component={Refund} />
-          <Route path="/Compliance-Master/Disclaimer" component={Disclaimer} />
+          <Route path="/Term-and-Conditions" component={Term} />
+          <Route path="/Privacy-Policy" component={Privacy} />
+          <Route path="/Refund-Policy" component={Refund} />
+          <Route path="/Disclaimer" component={Disclaimer} />
 
           <Route path="*">
             <Error404 />

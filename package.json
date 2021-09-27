@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://compliance-master.github.io/Compliance-Master/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

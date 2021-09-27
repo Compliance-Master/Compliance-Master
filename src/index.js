@@ -17,7 +17,7 @@ import Refund from './components/Refund';
 import Privacy from './components/Privacy';
 import Disclaimer from './components/Disclaimer';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";

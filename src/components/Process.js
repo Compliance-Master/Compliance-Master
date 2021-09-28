@@ -8,6 +8,7 @@ import bank from "../bank.gif"
 import upload from "../upload.gif"
 import applause from "../applause.gif"
 import certi from "../certificate.gif"
+import "../CSS/Process.css"
 export default function Process() {
     return (
         <>

@@ -73,7 +73,7 @@
    "IndividualCompany": {
       "Sole-Proprietor": {
          "name": "Sole Proprietor",
-         "img": "static/media/Sole.6a62445b.svg",
+         "img": "Images/Sole.svg",
          "des": "<p>Sole Proprietorship firms are the most common business types in India. Most of the entrepreneurs choose Proprietorship most of them when they are starting as a single person. It is one of the individual person firm registrations, and the main objective of the Sole Proprietorship is that you need to open a current bank account on the business name with less cost and compliance. A sole Proprietorship needs at least two legal entity proofs to open the existing bank account.</p><p>A single Proprietor manages the entire company and also takes care of every transaction made in the industry. Udyog Aadhaar Registration or GST Registration recognizes Proprietorship. It has some shortcomings like no continuous existence and unlimited liability of the proprietor. </p>",
          "docReq": "<ol><li>PAN card of the proprietor</li><li>Address proof of the proprietor</li><li>Specimen signature</li><li>Passport size photos of proprietor</li><li>Personal monthly bank statement for the last 6 months will be required</li><li>No objection certificate from the owner of the property of the property</li><li>Ownership proof</li><li>Rent agreement of your registered office</li></ol>",
          "whoshouldbuy": "<ul><li>Service providers providing services online or offline to clients</li><li>Businesses manufacturing goods</li><li>Traders and merchants selling goods</li></ul>",
@@ -98,7 +98,7 @@
       },
       "Partnership-Firm": {
          "name": "Partnership Firm",
-         "img": "/static/media/partnership.a4b505fc.svg",
+         "img": "Images/partnership.svg",
          "des": "<p>The most popular business entity in India for partner Entrepreneurs is the general partnership. Two or more people combined to form a business and the partners make use of the profits in an agreed ratio. The name provided to the Partnership Firm can be any to a partnership firm as long you match up the conditions like </p><ul><li>The name of the business should not be identical or similar to a current firm which is managing the same company.</li><li>The business name should not contain words like a crown, emperor, empire or other words that show sanction or government approval</li></ul>",
          "docReq": "<ol><li><div>Address proof of partners(Any one of electricity bill or bank statement or landline bill or mobile bill not older than 1 month)</div></li><li ><div>Photo ID proof of partners (Any one of Voter ID or Passport or Driver License)</div></li><li><div>No objection certificate from the owner of the property of the property</div></li><li ><div>Ownership proof (This is your property sale deed)</div></li><li><div>Rent agreement of your registered office</div></li></ol>",
          "whoshouldbuy": "<ul><li>A group of at least 2 people having a business idea</li><li>Small businesses looking to using pool of resources contributed by multiple people</li><li>Any existing unregistered Partnership Firm</li></ul>",
@@ -123,7 +123,7 @@
       },
       "Limited-Liability-Partnership": {
          "name": "Limited Liability Partnership",
-         "img": "/static/media/llp.1948bdf6.svg",
+         "img": "Images/llp.svg",
          "des": "<p>LLP (Limited Liability Partnership) is governed by the 2008 act of Limited Liability Partnership. It offers benefits of minimal maintenance and limited liability to its owners. The private limited company directors have limited liability to owners. In case of any defaults, the creditors or bank have no rights to sell the directors personal assets but can sell the assets of the company. LLP has become the best organization form among businessperson as it incorporates the advantages of company and partnership firm into a single type of organization.</p>",
          "docReq": "<ol><li><div>Photo ID proof of partners (Any one of Voter ID or Passport or Driver License)</div></li><li ><div>Address proof of partners (Any one of electricity bill or bank statement or landline bill or mobile bill not older than 1 month)</div></li><li><div>Specimen signature</div></li><li><div>No objection certificate from the owner of the property of the property</div></li><li ><div>Ownership proof (This is your property sale deed)</div></li><li><div>Rent agreement of your registered office</div></li></ol>",
          "whoshouldbuy": "<ul><li>Minimum two directors and two shareholders</li><li>Companies, body corporates or already existing partnerships</li><li>LLPs registered outside india</li><li>Startups and SMEs looking for carrying business with minimal legal formalities</li></ul>",
@@ -148,7 +148,7 @@
       },
       "One-Person-Company": {
          "name": "One Person Company",
-         "img": "static/media/oneperson.b5ef8594.svg",
+         "img": "Images/oneperson.svg",
          "des": "<p>One Person Company is a unique business entity which enables a single business person to operate a company entity with limited liability protection. One of the most significant benefits of OPC is that there will be just an only person as a member in OPC, whereas you need two members for incorporating and maintaining the Limited Liability Partnership (LLP) or Private Limited Company.</p><p>The one person company is a unique legal entity when compared to the promoter providing limited liability protection to the shareholder; also have business continuity and simple to incorporate. The OPC company registration process is made more accessible with ComplianceMaster </p>",
          "docReq": "<ol><li ><div>Passport size photos of directors </div></li><li ><div>Address proof of directors (Any one of electricity bill or bank statement or landline bill or mobile bill not older than 1 month)</div></li><li  ><div>Photo ID proof of directors (Any one of voter ID or Passport or Driver License)</div></li><li ><div>Specimen signature </div></li><li ><div>Self declaration about your directorship in other companies </div></li><li ><div>Rent agreement of your registered office </div></li><li ><div>No objection certificate from the owner of the property of the property </div></li><li ><div>PAN card </div></li><li  ><div>Photo ID and Address proof of nominee (Photo ID - Either of Passport / Driving License / Voter ID and Address Proof - Either of Electricity Bill / Bank Statement / Landline Bill / Mobile Bill not older than 1 month)</div></li></ol>",
          "whoshouldbuy": "<ul><li>Entrepreneurs who wish to form a company with limited liability</li><li>Proprietorship firm looking to get status of a company</li></ul>",
@@ -173,7 +173,7 @@
       },
       "Private-Limited-Company": {
          "name": "Private Limited Company",
-         "img": "/static/media/private.fe19a615.svg",
+         "img": "Images/private.svg",
          "des": "<p>As the name suggest, a Private limited company is formed by minimum of two members and maximum of two hundred members, the shares of which are held privately by the persons called as directors of the company. The Directors have limited liability to the creditors making it easy to start and raise funds. However they are monitored by the statutory bodies regulated by the Registrar of Companies (ROC).</p><p>Growing companies and start-ups choose a private limited company as it’s easy to raise fund outside, limit the shareholder’s liability and help them to provide employee stock option to make use of their talent.</p>",
          "docReq": "<ol><li  ><div>Passport size photos of directors  </div></li><li  ><div>Address proof of directors (Any one of electricity bill or bank statement or landline bill or mobile bill not older than 1 month)</div></li><li  ><div>Photo ID proof of directors (Any one of voter ID or Passport or Driver License)</div></li><li  ><div>Specimen signature  </div></li><li  ><div>Self declaration about your directorship in other companies  </div></li><li  ><div>Rent agreement of your registered office  </div></li><li  ><div>No objection certificate from the owner of the property of the property  </div></li><li  ><div>PAN card  </div></li><li  ><div>Appostile and Notrised documents for all directors residing outside India (All documents of the director residing outside India should appostiled and notrised)</div></li><li  ><div>Bank Account statement/Cancelled cheque (Showing Name, Account Number, IFSC code and Address)</div></li></ol>",
          "whoshouldbuy": "<ul><li>Businesses looking to expand or scale operations</li><li>    Startups looking to raise capital and issue ESOPs</li><li>    Businesses looking to convert their existing firm structure into private limited company</li><li>    Businesses expecting to have a turnover of Rs. 20 Lakhs or more in a financial year</li> <li>    Businesses expecting to have a turnover of Rs. 10 lakhs of more in a financial year(For North Eastern States)</li><li>    Vendors looking to sell online through e - commerce platforms</li></ul>",
@@ -198,7 +198,7 @@
       },
       "Public-Limited-Company": {
          "name": "Public Limited Company",
-         "img": "/static/media/public.367431bb.svg",
+         "img": "Images/public.svg",
          "des": "<p>Public Limited Companies are those that issue fixed deposits or else traded in the stock market. The minimum and maximum number of directors and shareholders for a public limited company are 3, 7 and 50 respectively. Apart from this, they require at least INR 5 lakhs of paid-up capital. Every benefit of Private Limited Company is included in the Limited Company, and they can hold any number of members, more transparency, and ease in the shareholding transfer.</p>",
          "docReq": "<ol><li>The director’s passport size photograph.</li><li>Copy of rent agreement in the case of a rented property.</li><li>Copy of property papers in case of owned property.</li><li>Copy of directors PAN Card.</li><li>Copy of voter identity or Aadhar card. </li><li>The business place water or electricity bill. </li><li>Landlord NOC.</li></ol>",
          "whoshouldbuy": "<ul><li>Public limited Company can list their shares on the stock exchange by the following compliance.</li><li>Limits partner liabilities.</li><li>The public limited Company gets more reference during the loan.</li><li>Shareholders can quickly transfer their shares.</li><li>Separate Legal Entity</li><li>Limited Liability</li></ul>",

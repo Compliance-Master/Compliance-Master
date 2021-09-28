@@ -12,7 +12,7 @@ export default function Navbar2() {
                     <div class=" collapse navbar-collapse " id="navbarNavDropdown">
                         <ul class="navbar-nav ms-auto ">
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="/Compliance-Master/">Home</a>
+                                <a class="nav-link" aria-current="page" href="/">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="#InformationGuide">Information Guide</a>

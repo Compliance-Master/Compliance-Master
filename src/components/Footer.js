@@ -23,12 +23,12 @@ export default function Footer() {
                                     Startup Center
                                 </h6>
                                 <ul >
-                                    <li><a href="/Compliance-Master/#/Partnership-Firm" class="link">Partnership Firm</a></li>
-                                    <li><a href="/Compliance-Master/#/Sole-Proprietor" class="link">Sole Proprietorship</a></li>
-                                    <li><a href="/Compliance-Master/#/One-Person-Company" class="link">One Person Company</a></li>
-                                    <li><a href="/Compliance-Master/#/Public-Limited-Company" class="link">Public Limited Company</a></li>
-                                    <li><a href="/Compliance-Master/#/Private-Limited-Company" class="link">Private Limited Company</a></li>
-                                    <li><a href="/Compliance-Master/#/Limited-Liability-Partnership" class="link">Limited Liability Partnership</a></li>
+                                    <li><a href="/Partnership-Firm" class="link">Partnership Firm</a></li>
+                                    <li><a href="/Sole-Proprietor" class="link">Sole Proprietorship</a></li>
+                                    <li><a href="/One-Person-Company" class="link">One Person Company</a></li>
+                                    <li><a href="/Public-Limited-Company" class="link">Public Limited Company</a></li>
+                                    <li><a href="/Private-Limited-Company" class="link">Private Limited Company</a></li>
+                                    <li><a href="/Limited-Liability-Partnership" class="link">Limited Liability Partnership</a></li>
                                 </ul>
                             </div>
                             {/* <!-- term of use --> */}
@@ -37,10 +37,10 @@ export default function Footer() {
                                     Company Policies
                                 </h6>
                                 <ul >
-                                    <li><a href="/Compliance-Master/#/Disclaimer" class="link">Disclaimer</a></li>
-                                    <li><a href="/Compliance-Master/#/Refund-Policy" class="link">Refund Policy</a></li>
-                                    <li><a href="/Compliance-Master/#/Privacy-Policy" class="link">Privacy Policy</a></li>
-                                    <li><a href="/Compliance-Master/#/Term-and-Conditions" class="link">Terms of Service</a></li>
+                                    <li><a href="/Disclaimer" class="link">Disclaimer</a></li>
+                                    <li><a href="/Refund-Policy" class="link">Refund Policy</a></li>
+                                    <li><a href="/Privacy-Policy" class="link">Privacy Policy</a></li>
+                                    <li><a href="/Term-and-Conditions" class="link">Terms of Service</a></li>
                                 </ul>
                             </div>
                         </div>

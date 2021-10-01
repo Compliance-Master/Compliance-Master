@@ -13,8 +13,7 @@ export default function Footer() {
                                 <h6 class="fw-bold mb-4">
                                     <a class="navbar-brand" href="#" style={{ fontFamily: ["Satisfy", "cursive"], fontSize: "2rem" }}>ComplianceMaster</a></h6>
                                 <p>
-                                    Here you can use rows and columns to organize your footer content. Lorem ipsum
-                                    dolor sit amet, consectetur adipisicing elit.
+                                    An Online Portal to incorporate and register the company. Our professional helps set up a legal entity.
                                 </p>
                             </div>
                             {/* <!-- startup --> */}

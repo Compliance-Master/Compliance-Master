@@ -11,7 +11,6 @@ export default function IndividualCompany(props) {
     var arr = data.pricing;
     const [detail, setdetail] = useState(false);
     const [id, setid] = useState("");
-
     return (
         <>
             <div>

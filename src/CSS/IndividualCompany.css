@@ -33,5 +33,9 @@
   margin-bottom: 20px;
 }
 .ind-hero {
-  background-color: #28ffbf;
+  background-image: url(../background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
 }

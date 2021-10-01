@@ -24,7 +24,6 @@ import {
 ReactDOM.render(
   <React.StrictMode >
     <>
-
       <Router>
         <Switch>
           <Route exact path="/">
@@ -34,7 +33,6 @@ ReactDOM.render(
             <RegistrationForm />
             <Counter />
             <PricingPage />
-            {/* <DocReq /> */}
             <FAQ />
             <Footer />
           </Route>
@@ -58,7 +56,6 @@ ReactDOM.render(
       </Router>
     </>
 
-
   </React.StrictMode >,
   document.getElementById('root')
 );
@@ -68,13 +65,9 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-
-
 /*
 thing to make
 2 navbar highlight on scroll
 4 write content in all section*
-5 contact form*
-7 launch
 8 chat bot
 */

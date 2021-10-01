@@ -219,11 +219,13 @@ export default function RegistrationForm() {
         let flag = checkState();
         if (flag) {
             sentEmail();
+            document.getElementById('RegistrationForm').scrollIntoView();
         }
         else {
             setalerttext("Please Fill all the input fields");
             setalertclass("alert alert-danger")
             setshowSuccess(true);
+            document.getElementById('RegistrationForm').scrollIntoView();
             setTimeout(() => {
                 setshowSuccess(false);
             }, 6000);

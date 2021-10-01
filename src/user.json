@@ -230,7 +230,7 @@
          "PriceStart": "1,800",
          "WorkingDays": "5",
          "CompanyLink": "Sole-Proprietor",
-         "KnowMore": "Sole-Proprietor/#Pricing"
+         "KnowMore": "Sole-Proprietor#Pricing"
       },
       {
          "name": "Partnership Firm",
@@ -239,7 +239,7 @@
          "PriceStart": "1,800",
          "WorkingDays": "5",
          "CompanyLink": "Partnership-Firm",
-         "KnowMore": "Partnership-Firm/#Pricing"
+         "KnowMore": "Partnership-Firms#Pricing"
       },
       {
          "name": "Limited Liability Partnership",
@@ -248,7 +248,7 @@
          "PriceStart": "1,800",
          "WorkingDays": "5",
          "CompanyLink": "Limited-Liability-Partnership",
-         "KnowMore": "Limited-Liability-Partnership/#Pricing"
+         "KnowMore": "Limited-Liability-Partnership#Pricing"
       },
       {
          "name": "One Person Company",
@@ -257,7 +257,7 @@
          "PriceStart": "7,900",
          "WorkingDays": "5",
          "CompanyLink": "One-Person-Company",
-         "KnowMore": "One-Person-Company/#Pricing"
+         "KnowMore": "One-Person-Company#Pricing"
       },
       {
          "name": "Private Limited Company",
@@ -266,7 +266,7 @@
          "PriceStart": "9,900",
          "WorkingDays": "5",
          "CompanyLink": "Private-Limited-Company",
-         "KnowMore": "Private-Limited-Company/#Pricing"
+         "KnowMore": "Private-Limited-Company#Pricing"
       },
       {
          "name": "Public Limited Company",
@@ -275,7 +275,7 @@
          "PriceStart": "1,800",
          "WorkingDays": "5",
          "CompanyLink": "Public-Limited-Company",
-         "KnowMore": "Public-Limited-Company/#Pricing"
+         "KnowMore": "Public-Limited-Company#Pricing"
       }
    ],
    "DetailBreakdown":{
